@@ -15,3 +15,5 @@ Patterns Estruturais:
 - Bridge
 - Composite
 - Decorator
+
+roda >.<
